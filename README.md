@@ -1,6 +1,6 @@
 # Semantic Segmentation tutorial
 
-![cover](img/cover.png)
+![cover](img/cover.jpg)
 
 This is a tutorial to demonstrate how to perform semantic segmentaiotn on images with deep learning in a few lines of code.
 
